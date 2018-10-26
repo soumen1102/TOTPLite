@@ -1,0 +1,9 @@
+C:\Workspace\Projects\TOTPLite\ATI.Oasis.TOTP\bin\Release\netstandard2.0\TOTPLite.deps.json
+C:\Workspace\Projects\TOTPLite\ATI.Oasis.TOTP\bin\Release\netstandard2.0\TOTPLite.dll
+C:\Workspace\Projects\TOTPLite\ATI.Oasis.TOTP\bin\Release\netstandard2.0\TOTPLite.pdb
+C:\Workspace\Projects\TOTPLite\ATI.Oasis.TOTP\obj\Release\netstandard2.0\TOTPLite.csprojAssemblyReference.cache
+C:\Workspace\Projects\TOTPLite\ATI.Oasis.TOTP\obj\Release\netstandard2.0\TOTPLite.csproj.CoreCompileInputs.cache
+C:\Workspace\Projects\TOTPLite\ATI.Oasis.TOTP\obj\Release\netstandard2.0\TOTPLite.AssemblyInfoInputs.cache
+C:\Workspace\Projects\TOTPLite\ATI.Oasis.TOTP\obj\Release\netstandard2.0\TOTPLite.AssemblyInfo.cs
+C:\Workspace\Projects\TOTPLite\ATI.Oasis.TOTP\obj\Release\netstandard2.0\TOTPLite.dll
+C:\Workspace\Projects\TOTPLite\ATI.Oasis.TOTP\obj\Release\netstandard2.0\TOTPLite.pdb
