@@ -11,5 +11,5 @@ I have a setup a demo app on Azure for use , the steps that you can follow as ou
  
 3.	Once done Hit Generate QR Code button , this will give you a QR code on the page itself.
 4.	Scan this using the Google Authenticator ( There will be an option to Add a token , followed by Scan a Bar Code ,you need to use it )
-5.	Once the scan is done you should see the token on the Google Authenticator , as illustrated below
+5.	Once the scan is done you should see the token on the Google Authenticator.
 
