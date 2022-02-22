@@ -1,19 +1,19 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Authors>Systems D &amp; D</Authors>
-    <Company>Aristocrat Inc</Company>
-    <Product>Oasis</Product>
+    <Authors>soumen.mukherjee@gmail.com</Authors>
+    <Company>-</Company>
+    <Product>-</Product>
     <Description>A lighweight Library for TOTP based OTP authentication . Also supports Google Authenticator Registration through QR Code</Description>
-    <Copyright>Aristocrat Inc</Copyright>
+    <Copyright>Soumen Mukherjee</Copyright>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Otp.NET" Version="1.2.0" />
-    <PackageReference Include="QRCoder" Version="1.3.3" />
+    <PackageReference Include="Otp.NET" Version="1.2.2" />
+    <PackageReference Include="QRCoder" Version="1.4.3" />
   </ItemGroup>
 
 </Project>

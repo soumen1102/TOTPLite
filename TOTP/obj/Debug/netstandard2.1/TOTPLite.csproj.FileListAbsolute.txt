@@ -1,0 +1,10 @@
+C:\Users\soumuk\Source\Repos\TOTPLite\TOTP\bin\Debug\netstandard2.1\TOTPLite.deps.json
+C:\Users\soumuk\Source\Repos\TOTPLite\TOTP\bin\Debug\netstandard2.1\TOTPLite.dll
+C:\Users\soumuk\Source\Repos\TOTPLite\TOTP\bin\Debug\netstandard2.1\TOTPLite.pdb
+C:\Users\soumuk\Source\Repos\TOTPLite\TOTP\obj\Debug\netstandard2.1\TOTPLite.csprojAssemblyReference.cache
+C:\Users\soumuk\Source\Repos\TOTPLite\TOTP\obj\Debug\netstandard2.1\TOTPLite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soumuk\Source\Repos\TOTPLite\TOTP\obj\Debug\netstandard2.1\TOTPLite.AssemblyInfoInputs.cache
+C:\Users\soumuk\Source\Repos\TOTPLite\TOTP\obj\Debug\netstandard2.1\TOTPLite.AssemblyInfo.cs
+C:\Users\soumuk\Source\Repos\TOTPLite\TOTP\obj\Debug\netstandard2.1\TOTPLite.csproj.CoreCompileInputs.cache
+C:\Users\soumuk\Source\Repos\TOTPLite\TOTP\obj\Debug\netstandard2.1\TOTPLite.dll
+C:\Users\soumuk\Source\Repos\TOTPLite\TOTP\obj\Debug\netstandard2.1\TOTPLite.pdb
